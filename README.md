@@ -4,6 +4,8 @@
 
 ---
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zsxoff/deep-learning-brain-segmentation/master)
+
 This notebook presents the segmentation of brain regions in a 2D grayscale image.
 
 The work was done on a dataset [Neurite OASIS Sample Data](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md).
