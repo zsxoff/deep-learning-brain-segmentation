@@ -10,6 +10,10 @@ The work was done on a dataset [Neurite OASIS Sample Data](https://github.com/ad
 
 This notebook shows the result of a 4- and 24-label segmentation. See dataset link for full description.
 
+![Result of prediction for 4 labels](<https://github.com/zsxoff/deep-learning-brain-segmentation/blob/master/assets/segmentation_4.png>)
+
+*In image, in order: Cortex, Subcortical-Gray-Matter, White-Matter, CSF.*
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
