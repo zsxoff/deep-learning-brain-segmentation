@@ -4,6 +4,7 @@
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/github/zsxoff/deep-learning-brain-segmentation/blob/master/Deep%20Learning%20Brain%20Segmentation.ipynb>]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zsxoff/deep-learning-brain-segmentation/master)
 
 This notebook presents the segmentation of brain regions in a 2D grayscale image.
