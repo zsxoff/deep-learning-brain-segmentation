@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+nibabel = "*"
+numpy = "*"
+scikit-learn = "*"
+tensorflow = "==2.5.0"
+seaborn = "*"
+seaborn-image = "*"
+
+[dev-packages]
+black = "==19.10b0"
+isort = "*"
+jupyterlab = "*"
+jupyterlab-code-formatter = "*"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
